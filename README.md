@@ -33,6 +33,8 @@ A React interface backed by a validated Express API, with status filters, priori
 
 Connects AI scripting, background jobs, speech, and animation. Review the storyboard before rendering; generated lessons still need fact-checking and editorial review.
 
+[![Offline cache animation from the video generator](https://raw.githubusercontent.com/Dhruvil151/ai-video-generator/main/docs/video-preview.gif)](https://github.com/Dhruvil151/ai-video-generator)
+
 `Node.js` · `Remotion / React` · `Redis / BullMQ` · `Gemini`
 
 [Explore the project](https://github.com/Dhruvil151/ai-video-generator#readme)
