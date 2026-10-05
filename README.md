@@ -4,7 +4,11 @@
 
 I build backend services, full-stack applications, and practical AI tools with **TypeScript, JavaScript, and Python**. My projects explore how software handles real work: competing requests, background jobs, saved progress, and clear user interfaces.
 
-I'm interested in **backend and full-stack opportunities**.
+I'm a **Senior Software Engineer and Team Lead at Avesta HQ**, with **4+ years of experience** delivering software for **view.com.au**. I lead a **7-engineer team** and work on APIs, marketplace workflows, and internal applications. The repositories below are independent portfolio projects; client source code is not published here.
+
+Based in **Ahmedabad, India**. I'm interested in **backend and full-stack opportunities**.
+
+[LinkedIn](https://www.linkedin.com/in/dhruvilvasava-a8a639218) · [Email me](mailto:dhruvilvasava1512@gmail.com)
 
 ## Start here
 
@@ -37,7 +41,7 @@ Connects AI scripting, background jobs, speech, and animation. Review the storyb
 
 `Node.js` · `Remotion / React` · `Redis / BullMQ` · `Gemini`
 
-[Explore the project](https://github.com/Dhruvil151/ai-video-generator#readme)
+[Explore the project](https://github.com/Dhruvil151/ai-video-generator#readme) · [Watch a narrated output](https://github.com/Dhruvil151/ai-video-generator/blob/main/docs/narrated-example.mp4)
 
 ## More things I've built
 
